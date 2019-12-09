@@ -17,7 +17,5 @@ namespace Interface.Entities
             Vehicles = vehicles;
             Invoice = null;
         }
-
-
     }
 }
